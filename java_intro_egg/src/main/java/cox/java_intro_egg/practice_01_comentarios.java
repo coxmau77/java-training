@@ -2,7 +2,7 @@
 package cox.java_intro_egg;
 
 //Esta es la clase
-public class practice_1_comentarios {
+public class practice_01_comentarios {
     
     //Dentro encontramos el método principal (método main) de la clase
     public static void main(String[] args) {

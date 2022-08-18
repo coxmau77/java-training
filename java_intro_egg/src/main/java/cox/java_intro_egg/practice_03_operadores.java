@@ -1,7 +1,7 @@
 
 package cox.java_intro_egg;
 
-public class practice_3_operadores {
+public class practice_03_operadores {
     public static void main(String[] args) {
         byte numberA = 5;
         byte numberB = 3;

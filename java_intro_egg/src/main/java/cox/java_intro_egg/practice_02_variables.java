@@ -1,7 +1,7 @@
 
 package cox.java_intro_egg;
 
-public class practice_2_variables {
+public class practice_02_variables {
     public static void main(String[] args) {
         
 //        Crear un proyecto de Java y definir al menos 6 variables en tu IDE de distintos tipos de datos.
